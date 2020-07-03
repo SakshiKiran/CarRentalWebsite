@@ -284,7 +284,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   <div class="form-group">
     <label for="" class="col-sm-2 control-label">Any Suggestion?:</label>
     <div class="col-sm-5">
-    <textarea class="form-control" name="description" id="text" cols="40" rows="4"></textarea>
+    <textarea class="form-control" name="suggestion" id="text" cols="40" rows="4"></textarea>
     
     </div>
   </div>
